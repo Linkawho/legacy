@@ -1,4 +1,4 @@
-## Wait... <img align="right" src="linkawho-logo.png"></img>
+## Wait... <img width="25%" align="right" src="linkawho-logo.png"></img>
 
 A curated directory that helps you discover the Internet.
 
