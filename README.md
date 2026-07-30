@@ -1,5 +1,5 @@
 ## "Wait... Link-a-who?"
-The web directory that helps you discover the Internet.
+A curated directory that helps you discover the Internet.
 ***Find something worth clicking.***
 
 ## Search engines
