@@ -46,6 +46,7 @@ A curated directory that helps you discover the Internet.
 ## Personal pages
 
 * [NodeMixaholic](https://nodemixaholic.com) - The person jotting all these links down.
+* [NodeMixaholic's Donation Page](https://coindrop.to/sam) - Perhaps you should pay me if you like my work and if you are able?
 * [PatchMixolydic](https://patchmixolydic.com) - A lesbian Touhou fan. (NOTE: AI scraping and training explicitly denied, sadly.)
 
 ## Social Networks
