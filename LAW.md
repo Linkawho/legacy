@@ -22,11 +22,11 @@ A curated directory that helps you discover the Internet.
 * [Github](https://www.github.com) - The classic web-based Git solution - going farther than Git.
 * [VSCode Download](https://code.visualstudio.com/) - Download VSCode.
 * [VSCode Online](https://www.vscode.dev) - A somewhat restricted VSCode without need for download!
-* [Google Antigravity](https://antigravity.google/) - Google's family of tools for AI coding
+* [Google Antigravity](https://antigravity.google/) - Google's family of tools for AI coding.
 * [NPM JS](https://www.npmjs.com/) - Website for NodeJS' "npm" package manager.
 * [PyPi](https://pypi.org/) - Find Python packages - typically installable via "pip".
 * [NodeJS](https://nodejs.org/) - The desktop Javascript engine and variant based on Chrome's V8 engine.
-* [Python](https://www.python.org/) - The standard programming language for Toontown and AI projects alike - and more!
+* [Python](https://www.python.org/) - The standard programming language for Toontown and AI projects alike... and more!
 * [Cloudflare](https://cloudflare.com) - Provides free public-facing tunneling and SSL certs.
 * [Tailscale](https://tailscale.com) - Provides private (via VPN) and public-facing (with subdomain) tunneling. Great for homelabbers.
 
@@ -38,8 +38,8 @@ A curated directory that helps you discover the Internet.
 
 ## AI Large Language Models
 
-* [ChatGPT](https://chatgpt.com) - The most common LLM (SIDENOTE: Very smart, even in the free tier.)
-* [Gemini](https://gemini.google.com) - Google's LLM (SIDENOTE: Smarter than when it first launched.)
+* [ChatGPT](https://chatgpt.com) - The most common LLM. (SIDENOTE: Very smart, even in the free tier.)
+* [Gemini](https://gemini.google.com) - Google's LLM. (SIDENOTE: Smarter than when it first launched.)
 
 ## Cool Linux Distros
 
@@ -50,13 +50,13 @@ A curated directory that helps you discover the Internet.
 ## Cloud Gaming
 
 * [XBOX Cloud Gaming](https://xbox.com/play) - The best cloud gaming service for controller players. (SIDENOTE: This is my opinion. Requires subscription.)
-* [GeForce Now](https://play.geforcenow.com) - The best cloud gaming service for the PC enthusiast or for those who want a decent free option. Also works with XBOX Game Pass. (SIDENOTE: This is my opinion. Free option has longer wait times and is limited to 1 hour per gaming session.)
+* [GeForce Now](https://play.geforcenow.com) - The best cloud gaming service for the PC enthusiast or for those who want a decent free option. Also works with XBOX Game Pass games. (SIDENOTE: This is my opinion. Free option has longer wait times and is limited to 1 hour per gaming session.)
 
 ## Web browsers
 
 * [Librewolf](https://librewolf.net) - The best desktop web browser for privacy. (SIDENOTE: This is my opinion.)
 * [Zen Browser](https://zen-browser.app/) - The best desktop web browser for general users. (SIDENOTE: This is my opinion.)
-* [Brave Browser](https://brave.com/download) - A privacy-friendly Chrome-like browser. (SIDENOTE: Has crypto wallet and AI.)
+* [Brave Browser](https://brave.com/download) - A more privacy-friendly Chrome-like browser. (SIDENOTE: Has crypto wallet and AI.)
 
 ## Delightfully Useless/Odd
 
