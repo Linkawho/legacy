@@ -1,4 +1,4 @@
-# LinkAWho?
+# ![LinkAWho?](linkawho-logo.png)
 
 A curated directory that helps you discover the Internet.
 
