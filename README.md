@@ -1,4 +1,4 @@
-## "Wait... Link-a-who?"
+## Wait... <img align="right" src="linkawho-logo.png"></img>
 
 A curated directory that helps you discover the Internet.
 
