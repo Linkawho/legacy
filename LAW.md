@@ -5,6 +5,9 @@ A curated directory that helps you discover the Internet.
 
 ***Find something worth clicking.***
 
+## About this site
+
+**Linkawho?** is inspired by *Jerry's Guide to the World Wide Web*, the hand-curated directory that later became Yahoo!. Like the original guide, **Linkawho?** aims to help people discover interesting and useful corners of the Internet through human curation rather than algorithms.
 
 ## Search engines
 
