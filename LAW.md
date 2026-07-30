@@ -5,6 +5,7 @@ A curated directory that helps you discover the Internet.
 
 ***Find something worth clicking.***
 
+
 ## Search engines
 
 * [Startpage](https://www.startpage.com) - Somewhat more privacy-respecting Google alternative.
@@ -104,3 +105,7 @@ A curated directory that helps you discover the Internet.
 * [PornHub](https://pornhub.com) - The classic porn website. (SIDENOTE: Unstable with NextDNS bypass sometimes.)
 * [YouPorn](https://youporn.com) - Owned by the same people as PornHub. (SIDENOTE: Stable with NextDNS bypass.)
 * [Rule34.xxx](https://rule34.xxx) - Porn of cartoon characters, anime characters, video game characters, and original characters. (SIDENOTE: Does NOT require bypass in some areas.)
+
+---
+
+*\[Copyright Sammy L. All rights reserved. DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY CONTENTS OF ANY WEBSITE OR WEBSITES YOU FIND ON THIS WEBSITE.\]*
