@@ -108,4 +108,4 @@ A curated directory that helps you discover the Internet.
 
 ---
 
-*\[Copyright Sammy L. All rights reserved. DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY CONTENTS OF ANY WEBSITE OR WEBSITES YOU FIND ON THIS WEBSITE.\]*
+*\[Copyright Sammy L. All rights reserved. DISCLAIMER: I AM NOT RESPONSIBLE FOR THE CONTENT OF ANY THIRD-PARTY WEBSITES LINKED FROM THIS SITE.\]*
