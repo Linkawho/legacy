@@ -23,7 +23,7 @@ The web directory that helps you discover the Internet.
 * [Is it Christmas?](https://isitchristmas.com/)
 * [Cat Bounce](https://cat-bounce.com/)
 
-## Jokes
+## Comics & Humor
 
 * [I Can Haz Dad Joke?](https://icanhazdadjoke.com/)
 * [xkcd](https://xkcd.com/)
