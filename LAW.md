@@ -9,6 +9,26 @@ A curated directory that helps you discover the Internet.
 
 **Linkawho?** is inspired by *Jerry's Guide to the World Wide Web*, the hand-curated directory that later became Yahoo!. Like the original guide, **Linkawho?** aims to help people discover interesting and useful corners of the Internet through human curation rather than algorithms.
 
+## Index
+
+* [Search Engines](#Search-engines)
+* [Coding](#Coding)
+* [Big tech](#Big-Tech)
+* [AI Large Language Models](#Search-engines)
+* [Search Engines](#AI-Large-Language-Models)
+* [Cool Linux Distros](#Cool-Linux-Distros)
+* [Search Engines](#Search-engines)
+* [Cloud Gaming](#Cloud-Gaming)
+* [Web browsers](#Web-browsers)
+* [Delightfully Useless/Odd](#Delightfully-Useless%2FOdd)
+* [Comics & Humor](#Comics-%26-Humor)
+* [Satirical News](#Satirical-News)
+* [Personal pages](#Personal-pages)
+* [Multimedia](#Multimedia)
+* [Graphic Design and Video Editing](#Graphic-Design-and-Video-Editing)
+* [Social Networks](#Social-Networks)
+* [NSFW (Porn)](#NSFW-%28Porn%29)
+
 ## Search engines
 
 * [Startpage](https://www.startpage.com) - Somewhat more privacy-respecting Google alternative.
