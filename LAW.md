@@ -64,7 +64,7 @@ A curated directory that helps you discover the Internet.
 
 * [The Weather Channel](https://weather.com) - The classic Weather site. (SIDENOTE: Not just forecasts!)
 * [Weather Underground](https://www.wunderground.com/) - The alternative Weather site.
-* [Weather.gov](https://weather.gov) - Weather forecasts provided by the United States government for their citizens.
+* [National Weather Service](https://weather.gov) - Weather forecasts provided by the United States government for their citizens.
 
 ## Cool Linux Distros
 
