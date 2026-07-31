@@ -15,6 +15,7 @@ A curated directory that helps you discover the Internet.
 * [Coding](#Coding)
 * [Big tech](#Big-Tech)
 * [AI Large Language Models](#Search-engines)
+* [Weather](#Weather)
 * [Cool Linux Distros](#Cool-Linux-Distros)
 * [Cloud Gaming](#Cloud-Gaming)
 * [Web browsers](#Web-browsers)
@@ -59,6 +60,12 @@ A curated directory that helps you discover the Internet.
 * [ChatGPT](https://chatgpt.com) - The most common LLM. (SIDENOTE: Very smart, even in the free tier.)
 * [Gemini](https://gemini.google.com) - Google's LLM. (SIDENOTE: Smarter than when it first launched.)
 
+## Weather
+
+* [The Weather Channel](https://weather.com) - The classic Weather site. (SIDENOTE: Not just forecasts!)
+* [Weather Underground](https://www.wunderground.com/) - The alternative Weather site.
+* [Weather.gov](https://weather.gov) - Weather forecasts provided by the United States government for their citizens.
+
 ## Cool Linux Distros
 
 * [Fedora](https://fedoraproject.org/) - A great Linux distro overall. (SIDENOTE: This is my opinion.)
@@ -101,6 +108,7 @@ A curated directory that helps you discover the Internet.
 * [NodeMixaholic](https://nodemixaholic.com) - The person jotting all these links down.
 * [NodeMixaholic's Donation Page](https://coindrop.to/sam) - Perhaps you should pay me if you like my work and if you are able?
 * [PatchMixolydic](https://patchmixolydic.com) - A lesbian Touhou fan. (SIDENOTE: AI scraping and training explicitly denied, sadly.)
+* [Stallman.org](https://stallman.org) - Personal site of GNU founder Richard Stallman.
 
 ## Multimedia
 
