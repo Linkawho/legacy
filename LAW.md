@@ -57,8 +57,8 @@ A curated directory that helps you discover the Internet.
 
 ## AI Large Language Models
 
-* [ChatGPT](https://chatgpt.com) - The most common LLM. (SIDENOTE: Very smart, even in the free tier.)
-* [Gemini](https://gemini.google.com) - Google's LLM. (SIDENOTE: Smarter than when it first launched.)
+* [ChatGPT](https://chatgpt.com) - A general-purpose conversational AI assistant. (SIDENOTE: Very smart, even in the free tier.)
+* [Gemini](https://gemini.google.com) - Google's general-purpose AI assistant. (SIDENOTE: Smarter than when it first launched.)
 
 ## Weather
 
