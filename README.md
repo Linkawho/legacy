@@ -2,10 +2,10 @@
 
 A curated directory that helps you discover the Internet.
 
-The goal is to help the user find something worth clicking by listing some links I (NodeMixaholic) find cool.
+The goal is to help the user find something worth clicking by listing some links I (NodeMixaholic) find cool that are compatible with older computers.
 
-Like classic Yahoo (back in the "Jerry's Guide to the World Wide Web" days) except for the modern web.
+Like LinkAWho except for classic websites.
 
 ## IMPORTANT NOTE FOR CONTRIBUTIONS
 
-If you want to contribute links for review, make an issue! I will hopefully get back to you eventually - and, if I find the site cool, I shall add it!
+If you want to contribute links for review, make an issue! I will hopefully get back to you eventually - and, if I find the site cool and it's compatible with older computers (as far back as Mac OS 9.2.1/IE5) as well as newer ones (at least enough to get an idea), I shall add it!
