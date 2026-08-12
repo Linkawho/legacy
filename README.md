@@ -4,7 +4,7 @@ A curated directory that helps you discover the ***retro*** Internet.
 
 The goal is to help the user find something worth clicking by listing some links I (NodeMixaholic) find cool that are compatible with older computers.
 
-Like LinkAWho except for classic websites.
+For old sites for PCs and sites for old PC targeting projects
 
 ## IMPORTANT NOTE FOR CONTRIBUTIONS
 
