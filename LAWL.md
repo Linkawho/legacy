@@ -87,7 +87,7 @@ A curated directory that helps you discover the ***retro*** Internet.
 * [Macsurf](http://macsurf.org/) - Modern web on Mac OS 9
 * [Supermium](https://github.com/win32ss/supermium/releases) - Modern web on Windows XP to 11.
 * [Powerfox](https://powerfox.org/) - Modern web on Mac OS 10.4 to 10.6
-* [Sparksammy's Legacy App Archive (SERVES MORE "MODERN" APPS!)](https://rfs.sparksammy.com/LordCloud/Legacy-App-Downloads)
+* [Sparksammy's Legacy App Archive] - Serves older app releases for Windows 7-10 era PCs. (https://rfs.sparksammy.com/LordCloud/Legacy-App-Downloads)
 
 ---
 
