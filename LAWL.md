@@ -3,7 +3,7 @@
 A curated directory that helps you discover the ***retro*** Internet.
 
 
-***Find something worth clicking.***
+***Find something from the past worth clicking.***
 
 ## About this site
 
@@ -11,24 +11,17 @@ A curated directory that helps you discover the ***retro*** Internet.
 
 ## Index
 
-* [Search Engines](#Search-engines)
-* [Coding](#Coding)
-* [Big tech](#Big-Tech)
-* [AI Large Language Models](#Search-engines)
-* [Weather](#Weather)
-* [Cool Linux Distros](#Cool-Linux-Distros)
-* [Cloud Gaming](#Cloud-Gaming)
+* [Archived Pages](#My-Favorite-Archived-pages)
+* [Sites that archive stuff](#Neat-Archive-Sites)
 * [Web browsers](#Web-browsers)
-* [Delightfully Useless/Odd](#Delightfully-Useless%2FOdd)
-* [Comics & Humor](#Comics-%26-Humor)
-* [Satirical News](#Satirical-News)
 * [Personal pages](#Personal-pages)
-* [Multimedia](#Multimedia)
-* [Graphic Design and Video Editing](#Graphic-Design-and-Video-Editing)
 * [Social Networks](#Social-Networks)
-* [NSFW (Porn)](#NSFW-%28Porn%29)
+* [News and Weather](#News-and-Weather)
+* [Pages made for Detoxr](#Special-"Detoxr-compatible"-pages)
+* [Other legacy stuff](#Other-legacy-stuff)
+* [Cool Projects with sites accessible only via newer PCs.](#Cool-Projects-to-be-accessed-via-new-computers)
 
-## Archived pages (Some powered by The Old Net!)
+## My Favorite Archived Pages
 
 * [Microsoft (2005)](https://theoldnet.com/get?url=microsoft.com&year=2005&scripts=false&decode=false) - creator of the operating system most of us have to *deal with.*
 * [SpaceJam (1996)](https://theoldnet.com/get?url=spacejam.com&year=1996&scripts=false&decode=false) - Classic version of a site of a classic movie.
@@ -49,10 +42,6 @@ A curated directory that helps you discover the ***retro*** Internet.
 * [The Old Net (2005)](https://theoldnet.com/lite) - The old internet again.
 * [Old'a-Vista](https://www.oldavista.com/) - Our friends at Old'a-Vista make a collection of old sites for you to browse. 
 
-## Weather
-
-* [wttr.in](https://wttr.in) - A very minimal frontend for providing weather. (SIDENOTE: Visitable via curl!)
-
 ## Web browsers
 
 * [Retrozilla](https://rn10950.github.io/RetroZillaWeb/) - Windows web browser for old PCs.
@@ -62,9 +51,17 @@ A curated directory that helps you discover the ***retro*** Internet.
 
 * [Stallman.org](https://stallman.org) - Personal site of GNU founder Richard Stallman.
 
-## Special "Detoxr-compatible" pages (made for Detoxr!)
+## Social Networks
 
 * [NodeMixaholic's Bluesky Client](http://bluesky.nodemixaholic.com) - The client for the true white-tent social network for the many. (SIDENOTE: Unreliable due to being hosted by one person.)
+
+## News and Weather
+
+* [Old School News](https://osn.nodemixaholic.com) - A news serving platform for old PCs. (SIDENOTE: Unreliable due to being hosted by one person.)
+* [wttr.in](https://wttr.in) - A very minimal frontend for providing weather. (SIDENOTE: Visitable via curl!)
+
+## Special "Detoxr-compatible" pages
+
 * [Old School News](https://osn.nodemixaholic.com) - A news serving platform for old PCs. (SIDENOTE: Unreliable due to being hosted by one person.)
 * [YouTube](http://youtube.com) - Exclusive to Detoxr and forks.
 * [Internet Archive](http://web.archive.org) - Internet Archive but on Detoxr.
@@ -81,20 +78,16 @@ A curated directory that helps you discover the ***retro*** Internet.
 ## Other legacy stuff
 
 * [Toontown Updating Animation (SIDENOTE: Needs <blink>Flash!</blink>)](ToonLoad.swf)
-* [Sparksammy's Legacy App Archive (SIDENOTE: NEEDS MODERN BROWSER! SERVES MORE "MODERN" APPS!)](https://rfs.sparksammy.com/LordCloud/Legacy-App-Downloads)
 
 ---
 
-## Cool Projects (to be accessed via new computers)
+## Cool Projects to be accessed via new computers
 
 * [Detoxr](https://github.com/mymel2001/detoxr) - detoxifies the internet and makes it compatible with majority of modern and classic browsers for Mac since 1999.
-
-## Web browsers (needs newer computer to render page)
-
 * [Macsurf](http://macsurf.org/) - Modern web on Mac OS 9
 * [Supermium](https://github.com/win32ss/supermium/releases) - Modern web on Windows XP to 11.
 * [Powerfox](https://powerfox.org/) - Modern web on Mac OS 10.4 to 10.6
-
+* [Sparksammy's Legacy App Archive (SERVES MORE "MODERN" APPS!)](https://rfs.sparksammy.com/LordCloud/Legacy-App-Downloads)
 
 ---
 
