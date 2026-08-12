@@ -8,4 +8,4 @@ Like LinkAWho except for classic websites.
 
 ## IMPORTANT NOTE FOR CONTRIBUTIONS
 
-If you want to contribute links for review, make an issue! I will hopefully get back to you eventually - and, if I find the site cool and it's compatible with older computers (as far back as Mac OS 9.2.1/IE5) as well as newer ones (at least enough to get an idea), I shall add it!
+If you want to contribute links for review, make an issue! I will hopefully get back to you eventually - and, if I find the site cool and it's compatible with older computers (at least somewhat and as far back as Mac OS 9.2.1/IE5) as well as newer ones (at least enough to get an idea), I shall add it!
