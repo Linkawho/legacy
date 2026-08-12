@@ -61,7 +61,6 @@ A curated directory that helps you discover the ***retro*** Internet.
 
 ## Special "Detoxr-compatible" pages
 
-* [Old School News](https://osn.nodemixaholic.com) - A news serving platform for old PCs. (SIDENOTE: Unreliable due to being hosted by one person.)
 * [YouTube](http://youtube.com) - Exclusive to Detoxr and forks.
 * [Internet Archive](http://web.archive.org) - Internet Archive but on Detoxr.
 * [Golden Years](http://goldenyears.yay) - Detoxr exclusive: Internet Archive but with AI to recreate missing pages.
