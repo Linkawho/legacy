@@ -70,6 +70,7 @@ A curated directory that helps you discover the ***retro*** Internet.
 * [NOAA Weather](http://weather.gov) - Check weather of areas within the USA.
 * [Samantha](http://samantha.ai) - Detoxr exclusive: chat with Samantha!
 * [Samantha Websim](http://samantha.web) - Detoxr exclusive: Websim but with Samantha writing the code for older PCs.
+* [Settings](http://settings.config) - Detoxr exclusive: Personal settings for Detoxr, for public servers.
 
 
 ---
