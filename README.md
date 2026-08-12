@@ -1,6 +1,6 @@
 # ![LinkAWho?](linkawho-logo.png)
 
-A curated directory that helps you discover the Internet.
+A curated directory that helps you discover the ***retro*** Internet.
 
 The goal is to help the user find something worth clicking by listing some links I (NodeMixaholic) find cool that are compatible with older computers.
 
