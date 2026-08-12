@@ -33,7 +33,6 @@ A curated directory that helps you discover the ***retro*** Internet.
 * [Android (2008)](https://theoldnet.com/get?url=http://www.android.com&year=2008&scripts=false&decode=false) - Classic AOSP landing page.
 * [Youtube (2008)](https://theoldnet.com/get?url=www.youtube.com&year=2008&scripts=false&decode=false) - A Snapshot back to a simpler time of YouTube...
 * [Google (2004)](https://theoldnet.com/get?url=http://www.google.com&year=2004&scripts=false&decode=false) - Remember Google wasn't bloated?
-
 * [Rocketsnail (2003)](https://theoldnet.com/get?url=http://www.rocketsnail.com&year=2003&scripts=false&decode=false) - The semi-iconic games website.
 * [Cool Math Games (2010)](https://theoldnet.com/get?url=http://www.coolmath-games.com&year=2010&scripts=false&decode=false) - The semi-iconic games website.
 
